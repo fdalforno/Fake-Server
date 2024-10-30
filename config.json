@@ -1,0 +1,12 @@
+{
+    "!api/jwt/login": {
+        "type": "text/plain",
+        "file": "response/token.txt",
+        "code":200
+    },
+    "!api/arsys/v1/entry/GEN:INTEG_Robot:HPD_INC_Detail": {
+        "type": "application/json",
+        "file": "response/detail.json",
+        "code":200
+    }
+}
